@@ -35,6 +35,7 @@ checksum = "cf1de2fe8c75bc145a2f577add951f8134889b4795d47466a54a5c846d691693"
 [[package]]
 name = "bocs"
 version = "0.6.0"
+source = "git+https://github.com/ShaneEverittM/bocs?branch=main#51f3363f06d9a975b9a67b919452991a7e335875"
 dependencies = [
  "anyhow",
  "itertools",
